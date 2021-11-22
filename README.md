@@ -1,5 +1,5 @@
 # Pixel Scene Classification Dataset (PSC)
-PSC5(GID-MTL5) and PSC15(GID-MTL15) datasets 
+PSC5 (GID-MTL5) and PSC15 (GID-MTL15) datasets 
 
 These datasets are used for multi-task learning of simultanelously conduct scene classificton and pixel-level land-cover classification. Every image in each dataset contains pixel-level land-cover labels and image-level scene label. 
 
